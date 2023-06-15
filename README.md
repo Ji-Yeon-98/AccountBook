@@ -23,15 +23,23 @@
 - 날짜 선택창, 수입/지출 내역
 
 <img src="https://github.com/Ji-Yeon-98/account_book/blob/main/%EC%9B%94%EA%B0%84.gif">
+
 - 메뉴 이동, 총 지출/수입 계산, 메모 기능
 
 ### 3. 수입, 지출 내역 추가/삭제
 
 <img src="https://github.com/Ji-Yeon-98/account_book/blob/main/%EC%88%98%EC%9E%85%EC%A7%80%EC%B6%9C.gif">
 
+- 추가 버튼 : 수입/지출 선택, 상세 내용 입력 후 추가
+- 삭제 버튼 : 추가된 리스트 길게 선택하면 삭제
+
+
 ### 4. 일마다 간단한 메모
 
 <img src="https://github.com/Ji-Yeon-98/account_book/blob/main/%EB%A9%94%EB%AA%A8.gif">
+
+- 메모장 이용해 저장
+- 날짜 클릭하면 저장된 내용의 메모 보여줌
 
 ---
 
