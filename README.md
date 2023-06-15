@@ -8,7 +8,7 @@
 
 ## 기능
 
-1. 비밀번호 로그인
+### 1. 비밀번호 로그인
 
 <img src="https://github.com/Ji-Yeon-98/account_book/blob/main/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.gif">
 
@@ -16,10 +16,15 @@
 - 올바른 비밀번호인 경우 화면 전환 O
 
 
-2. 월간/일간 화면
-- 수입, 지출 내역 추가/삭제
-- 총 지출/수입 계산
-- 일마다 간단한 메모
+### 2. 월간/일간 화면
+
+<img src="https://github.com/Ji-Yeon-98/account_book/blob/main/%EC%9D%BC%EA%B0%84.gif">
+
+<img src="">
+
+### 3. 수입, 지출 내역 추가/삭제
+### 4. 총 지출/수입 계산
+### 5. 일마다 간단한 메모
 
 ---
 
