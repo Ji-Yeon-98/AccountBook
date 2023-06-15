@@ -10,7 +10,7 @@
 
 - 비밀번호 로그인
 
-<img src="https://github.com/Ji-Yeon-98/CowDetect/blob/master/img/%EB%9D%BC%EB%B2%A8%EB%A7%81.png">
+<img src="https://github.com/Ji-Yeon-98/account_book/blob/main/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.gif">
 
 - 월간/일간 화면
 - 수입, 지출 내역 추가/삭제
