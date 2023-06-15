@@ -9,6 +9,9 @@
 ## 기능
 
 - 비밀번호 로그인
+
+<img src="https://github.com/Ji-Yeon-98/CowDetect/blob/master/img/%EB%9D%BC%EB%B2%A8%EB%A7%81.png">
+
 - 월간/일간 화면
 - 수입, 지출 내역 추가/삭제
 - 총 지출/수입 계산
