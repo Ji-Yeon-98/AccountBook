@@ -20,11 +20,18 @@
 
 <img src="https://github.com/Ji-Yeon-98/account_book/blob/main/%EC%9D%BC%EA%B0%84.gif">
 
-<img src="">
+- 날짜 선택창, 수입/지출 내역
+
+<img src="https://github.com/Ji-Yeon-98/account_book/blob/main/%EC%9B%94%EA%B0%84.gif">
+- 메뉴 이동, 총 지출/수입 계산, 메모 기능
 
 ### 3. 수입, 지출 내역 추가/삭제
-### 4. 총 지출/수입 계산
-### 5. 일마다 간단한 메모
+
+<img src="https://github.com/Ji-Yeon-98/account_book/blob/main/%EC%88%98%EC%9E%85%EC%A7%80%EC%B6%9C.gif">
+
+### 4. 일마다 간단한 메모
+
+<img src="https://github.com/Ji-Yeon-98/account_book/blob/main/%EB%A9%94%EB%AA%A8.gif">
 
 ---
 
